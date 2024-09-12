@@ -1,6 +1,6 @@
 import React from 'react';
 import './about.css'
-import Resume from '../../assets/Ambrose-resume.pdf';
+import Resume from '../../assets/EnochAtuahene_Resume.pdf';
 import AboutImg from '../../assets/about2.jpeg';
 import Info from './Info';
 
@@ -17,9 +17,8 @@ const About = () => {
                     <Info />
 
                     <p className="about__description"> 
-                    I'm an advocate for mentorship, guiding aspiring talents in tech. 
-                    Passionate about innovation and inclusivity, I strive to contribute meaningfully to the ever-evolving tech landscape. 
-                    Explore my portfolio to discover more about my projects, skills, and aspirations.
+                    I am deeply enthusiastic about technology and its potential to shape our world. My drive centers on pushing boundaries and fostering an inclusive tech community where diverse ideas thrive. 
+                    To get a sense of my contributions to this dynamic field, along with my skills and aspirations, I encourage you to explore my portfolio.
                     </p>
 
                     <a href={Resume} className="button button--flex" target="_blank">View Resume
