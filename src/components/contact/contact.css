@@ -47,12 +47,12 @@
 }
 
 .contact__button {
-  color: var(--text-color);
   font-size: var(--small-font-size);
   display: inline-flex;
   align-items: center;
   justify-content: center;
   column-gap: 0.25rem;
+  color: #0000f8;
 }
 
 .contact__button-icon {

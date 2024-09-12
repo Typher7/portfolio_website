@@ -17,7 +17,7 @@
 
 .home__social-icon{
     font-size: 1.25rem;
-    color: var(--title-color)
+    color: #0000f8;
 }
 
 .home__social-icon:hover {
@@ -36,9 +36,7 @@
 }
 
 .home__subtitle{
-    position: relative;
     font-size: var(--h3-font-size);
-    padding-left: 5.4rem;
     font-weight: var(--font-normal);
     margin-bottom: var(--mb-1);
 }
@@ -87,6 +85,7 @@
 
 .home__scroll{
     margin-left: 9.25rem;
+    
 }
 
 .wheel {
@@ -103,7 +102,7 @@
 }
 
 .home__scroll-name{
-    color: var(--title-color);
+    color: #0000f8;
     font-weight: var(--font-medium);
     margin-right: var(--mb-0-25);
     margin-left: 2px;
