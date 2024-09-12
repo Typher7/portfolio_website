@@ -37,7 +37,7 @@ const Qualification = () => {
                         <div className="qualification__data">
                             <div>
                                 <h3 className="qualification__title">Computer Science</h3>
-                                <span className="qualification__subtitle">Cornell University</span>
+                                <span className="qualification__subtitle">Wayne State College</span>
                                 <div className="qualification__calendar">
                                     <i className="uil uil-calendar-alt"></i>2023 - Present
                                 </div>
@@ -67,11 +67,28 @@ const Qualification = () => {
                         </div>
 
                         <div className="qualification__data">
+                            <div></div>
+
+                            <div>
+                                <span className="qualification__rounder"></span>
+                                <span className="qualification__line"></span>
+                            </div>
+
+                            <div><br />
+                                <h3 className="qualification__title">Intro to Soft. Eng</h3>
+                                <span className="qualification__subtitle">ALX Africa</span>
+                                <div className="qualification__calendar">
+                                    <i className="uil uil-calendar-alt"></i>2021 - 2022
+                                </div>
+                            </div>
+                        </div>
+
+                        <div className="qualification__data">
                             <div>
                                 <h3 className="qualification__title">High School Diploma</h3>
-                                <span className="qualification__subtitle">Opoku Ware School</span>
+                                <span className="qualification__subtitle">Adventist Senior High</span>
                                 <div className="qualification__calendar">
-                                    <i className="uil uil-calendar-alt"></i>2018 - 2021
+                                    <i className="uil uil-calendar-alt"></i>2017 - 2020
                                 </div>
                             </div>
 
