@@ -104,10 +104,10 @@ const Qualification = () => {
 
                         <div className="qualification__data">
                             <div>
-                                <h3 className="qualification__title">Software Developer</h3>
-                                <span className="qualification__subtitle">Culture Care</span>
+                                <h3 className="qualification__title">Software Eng. Fellow</h3>
+                                <span className="qualification__subtitle">HeadStarter</span>
                                 <div className="qualification__calendar">
-                                    <i className="uil uil-calendar-alt"></i>2023 - Present
+                                    <i className="uil uil-calendar-alt"></i>2024 - Present
                                 </div>
                             </div>
 
@@ -126,18 +126,18 @@ const Qualification = () => {
                             </div>
 
                             <div>
-                                <h3 className="qualification__title">Product Developer</h3>
-                                <span className="qualification__subtitle">Ishara</span>
+                                <h3 className="qualification__title">Full Stack Developer</h3>
+                                <span className="qualification__subtitle">Synlab Ghana</span>
                                 <div className="qualification__calendar">
-                                    <i className="uil uil-calendar-alt"></i>2022 - 2023
+                                    <i className="uil uil-calendar-alt"></i>2024 - Present
                                 </div>
                             </div>
                         </div>
 
                         <div className="qualification__data">
                             <div>
-                                <h3 className="qualification__title">Backend Developer</h3>
-                                <span className="qualification__subtitle">Cornell AppDev Hackathon</span>
+                                <h3 className="qualification__title">Software Eng. Intern</h3>
+                                <span className="qualification__subtitle">Ckodon Foundation</span>
                                 <div className="qualification__calendar">
                                     <i className="uil uil-calendar-alt"></i>2023
                                 </div>
