@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/portfolio-website/static/css/main.7645077e.css",
-    "main.js": "/portfolio-website/static/js/main.71b4a86c.js",
-    "static/js/787.7da95b79.chunk.js": "/portfolio-website/static/js/787.7da95b79.chunk.js",
-    "static/media/connectn.mp4": "/portfolio-website/static/media/connectn.83b1c79206cd341ba041.mp4",
-    "static/media/invaders.mp4": "/portfolio-website/static/media/invaders.80853da0b1add24ea9f2.mp4",
-    "static/media/about.jpg": "/portfolio-website/static/media/about.9837206e1f03b3e6db7b.jpg",
-    "static/media/work1.png": "/portfolio-website/static/media/work1.78c311d9f3607d43a65e.png",
-    "static/media/work2.png": "/portfolio-website/static/media/work2.957825d05ea85c10e1bd.png",
-    "static/media/about2.jpeg": "/portfolio-website/static/media/about2.4a55c6019a326f715c36.jpeg",
-    "static/media/EnochAtuahene_Resume.pdf": "/portfolio-website/static/media/EnochAtuahene_Resume.5755984e4437dba0f4f7.pdf",
-    "static/media/Work4.jpeg": "/portfolio-website/static/media/Work4.65fe6633c12a1eb30960.jpeg",
-    "static/media/work3.png": "/portfolio-website/static/media/work3.894d97d08c7e5061da40.png",
-    "index.html": "/portfolio-website/index.html",
-    "main.7645077e.css.map": "/portfolio-website/static/css/main.7645077e.css.map",
-    "main.71b4a86c.js.map": "/portfolio-website/static/js/main.71b4a86c.js.map",
-    "787.7da95b79.chunk.js.map": "/portfolio-website/static/js/787.7da95b79.chunk.js.map"
+    "main.css": "/portfolio_website/static/css/main.9de080c3.css",
+    "main.js": "/portfolio_website/static/js/main.75710405.js",
+    "static/js/787.7da95b79.chunk.js": "/portfolio_website/static/js/787.7da95b79.chunk.js",
+    "static/media/connectn.mp4": "/portfolio_website/static/media/connectn.83b1c79206cd341ba041.mp4",
+    "static/media/invaders.mp4": "/portfolio_website/static/media/invaders.80853da0b1add24ea9f2.mp4",
+    "static/media/about.jpg": "/portfolio_website/static/media/about.9837206e1f03b3e6db7b.jpg",
+    "static/media/work1.png": "/portfolio_website/static/media/work1.78c311d9f3607d43a65e.png",
+    "static/media/work2.png": "/portfolio_website/static/media/work2.957825d05ea85c10e1bd.png",
+    "static/media/about2.jpeg": "/portfolio_website/static/media/about2.4a55c6019a326f715c36.jpeg",
+    "static/media/EnochAtuahene_Resume.pdf": "/portfolio_website/static/media/EnochAtuahene_Resume.5755984e4437dba0f4f7.pdf",
+    "static/media/Work4.jpeg": "/portfolio_website/static/media/Work4.65fe6633c12a1eb30960.jpeg",
+    "static/media/work3.png": "/portfolio_website/static/media/work3.894d97d08c7e5061da40.png",
+    "index.html": "/portfolio_website/index.html",
+    "main.9de080c3.css.map": "/portfolio_website/static/css/main.9de080c3.css.map",
+    "main.75710405.js.map": "/portfolio_website/static/js/main.75710405.js.map",
+    "787.7da95b79.chunk.js.map": "/portfolio_website/static/js/787.7da95b79.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7645077e.css",
-    "static/js/main.71b4a86c.js"
+    "static/css/main.9de080c3.css",
+    "static/js/main.75710405.js"
   ]
 }
