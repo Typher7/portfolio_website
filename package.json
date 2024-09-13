@@ -16,7 +16,7 @@
     "swiper": "^11.0.5",
     "web-vitals": "^2.1.4"
   },
-  "homepage": "https://Typher7.github.io/portfolio-website",
+  "homepage": "https://Typher7.github.io/portfolio_website",
   
   "scripts": {
     "predeploy": "npm run build",
