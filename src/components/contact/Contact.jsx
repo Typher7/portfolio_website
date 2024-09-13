@@ -8,7 +8,12 @@ const Contact = () => {
     const sendEmail = (e) => {
         e.preventDefault();
 
-        emailjs.sendForm('service_2w6likg', 'template_an9mg0v', form.current, 'vW6ybkg6wmPm7qHKF')
+        emailjs.sendForm('service_2w6likg', 'template_9t20nkg', form.current, 'vW6ybkg6wmPm7qHKF')
+        .then((result) => {
+            console.log('Email successfully sent:', result.text);
+        }, (error) => {
+            console.error('Error sending email:', error.text);
+        });
         e.target.reset()
     };
     return (
