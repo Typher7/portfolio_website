@@ -16,7 +16,7 @@
     "swiper": "^11.0.5",
     "web-vitals": "^2.1.4"
   },
-  "homepage": "https://myusername.github.io/my-app",
+  "homepage": "https://Typehr7.github.io/portfolio-website",
   
   "scripts": {
     "predeploy": "npm run build",
