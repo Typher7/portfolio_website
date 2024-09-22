@@ -1,7 +1,5 @@
-import Work1 from "../../assets/work1.png";
-import Work2 from "../../assets/work2.png";
-import Work3 from "../../assets/work3.png";
-import Work4 from "../../assets/Work4.jpeg";
+import Work2 from "../../assets/Work2.png";
+import Work4 from "../../assets/Work4.jpg";
 
 export const projectsData = [
     
@@ -10,14 +8,14 @@ export const projectsData = [
         image: Work2,
         title: "Weather",
         category: "app",
-        link: "https://github.com/Typher7/weather-main"
+        link: "https://github.com/Typher7/weather-app-react"
     },
 
     {
         id: 4,
         image: Work4,
         title: "Facial Recognition",
-        link: "https://github.com/Ambrose2002/face_rcgn"
+        link: "https://github.com/Typher7/Facial_Recognition"
     }
 ];
 
