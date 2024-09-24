@@ -17,7 +17,7 @@
     "swiper": "^11.0.5",
     "web-vitals": "^2.1.4"
   },
-  "homepage": "eatuahene.com",
+  "homepage": ".",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
