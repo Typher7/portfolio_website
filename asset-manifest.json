@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "./static/css/main.18dcc829.css",
-    "main.js": "./static/js/main.00f00fe9.js",
+    "main.js": "./static/js/main.f20dcadd.js",
     "static/js/787.7da95b79.chunk.js": "./static/js/787.7da95b79.chunk.js",
     "static/media/invaders.mp4": "./static/media/invaders.f3d4023579c9a5d2b0f8.mp4",
     "static/media/connectn.mp4": "./static/media/connectn.83b1c79206cd341ba041.mp4",
     "static/media/Work2.png": "./static/media/Work2.a6b82a6938c937cc2211.png",
     "static/media/about.jpg": "./static/media/about.9837206e1f03b3e6db7b.jpg",
-    "static/media/EnochAtuahene_Resume.pdf": "./static/media/EnochAtuahene_Resume.daf80efeb9c5a2c13c33.pdf",
+    "static/media/Enoch_Atuahene_Resume.pdf": "./static/media/Enoch_Atuahene_Resume.4a2eee7dbb74ce53923c.pdf",
     "static/media/Work4.jpg": "./static/media/Work4.6b9dbb5a90df5f227298.jpg",
     "static/media/about2.jpeg": "./static/media/about2.4a55c6019a326f715c36.jpeg",
     "index.html": "./index.html",
     "main.18dcc829.css.map": "./static/css/main.18dcc829.css.map",
-    "main.00f00fe9.js.map": "./static/js/main.00f00fe9.js.map",
+    "main.f20dcadd.js.map": "./static/js/main.f20dcadd.js.map",
     "787.7da95b79.chunk.js.map": "./static/js/787.7da95b79.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.18dcc829.css",
-    "static/js/main.00f00fe9.js"
+    "static/js/main.f20dcadd.js"
   ]
 }
