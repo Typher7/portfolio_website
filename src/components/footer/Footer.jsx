@@ -5,7 +5,7 @@ const Footer = () => {
     return (
         <footer className="footer">
             <footer className="footer__container container">
-                <h1 className="footer__title">Enoch</h1>
+                <h1 className="footer__title">Enoch Atuahene</h1>
 
                 <ul className="footer__list">
                     <li>
@@ -34,7 +34,6 @@ const Footer = () => {
                         <i class='bx bxl-github' ></i>
                     </a>
                 </div>
-                <span className="footer__copy">Made with &#10084; by Kwame</span>
             </footer>
         </footer>
     )

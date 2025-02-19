@@ -31,7 +31,7 @@ const Contact = () => {
                             <h3 className="contact__card-title">Email</h3>
                             <span className="contact__card-data">enatua01@wsc.edu</span>
 
-                            <a href="mailto:ambrose2002blay@gmail.com" className="contact__button">Write me
+                            <a href="mailto:enatua01@wsc.edu" className="contact__button">Write me
                                 <i className="bx bx-right-arrow-alt contact__button-icon"></i></a>
                         </div>
 
@@ -50,7 +50,7 @@ const Contact = () => {
                             <h3 className="contact__card-title">Phone</h3>
                             <span className="contact__card-data">+1 774 519 1646</span>
 
-                            <a href="https://m.me/crypticalcoder" className="contact__button">Call me
+                            <a href='tel:+17745191646' className="contact__button">Call me
                                 {/* <i className="bx bx-right-arrow-alt contact__button-icon"></i> */}
                             </a>
                         </div>
