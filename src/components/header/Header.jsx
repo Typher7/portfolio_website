@@ -1,10 +1,12 @@
 import React, { useState, useEffect } from "react";
 import "./header.css";
+import { useTheme } from "../../context/ThemeContext";
 
 const Header = () => {
     const [isScrolled, setIsScrolled] = useState(false);
     const [toggle, setToggle] = useState(false);
     const [activeNav, setActiveNav] = useState("#home");
+    const { isDarkMode, toggleTheme } = useTheme();
 
     useEffect(() => {
         const handleScroll = () => {
@@ -48,6 +50,9 @@ const Header = () => {
                 <div className="nav__toggle" onClick={() => setToggle(!toggle)}>
                     <i className="uil uil-apps"></i>
                 </div>
+                <button onClick={toggleTheme} className="theme-toggle">
+                    <i className={`uil ${isDarkMode ? 'uil-sun' : 'uil-moon'}`}></i>
+                </button>
             </nav>
         </header>
     );
