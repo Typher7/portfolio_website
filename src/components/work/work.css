@@ -34,7 +34,7 @@
   display: flex;
   align-items: center;
   column-gap: 0.25rem;
-  color: #0000f8;
+  color: var(--link-color, #0000f8);
 }
 
 .work__button-icon {
